@@ -1,12 +1,41 @@
-# Hi, I'm Iulian 👋
+## 🚀 Hello, I'm Iulian 👋
 
-Cloud Systems & Cybersecurity Administrator from Bucharest, Romania, with 5+ years of experience in systems administration, telecommunications engineering and cybersecurity.
+**Cloud Systems & Cybersecurity Administrator** from Bucharest, Romania. With over **5 years** dedicated to systems administration, telecommunications, and cybersecurity, I'm focused on combining robust technical solutions with proactive security measures.
 
-- Focus on securing networks and servers, Azure cloud and security automation (SecOps).
-- Experience with threat analysis, incident response, IDS/IPS, and Windows/Linux server hardening.
-- Passionate about volunteering, running and helping people learn and solve real-world problems through technology.
+---
 
-## 🔍 What you’ll find here
+### 💡 My Expertise & Passion
 
-- [portfolio](https://github.com/IulianBofu/portfolio) – labs, scripts and notes in cybersecurity, cloud and automation.
-- Other experiments, learning projects and tools I build along the way.
+I see technology not just as a job, but as a powerful tool for positive impact. My approach is to blend professional rigor with a genuine enthusiasm for learning and problem-solving.
+
+* **Professional Focus:** Specializing in securing complex network environments and servers, leveraging the **Azure Cloud** platform, and building efficient workflows through **Security Automation (SecOps)**.
+* **Key Skills:** Experienced in threat analysis, executing rapid **Incident Response**, managing **IDS/IPS** solutions, and rigorous **hardening** of Windows/Linux infrastructures.
+* **Driven by Passion:** Beyond the command line, I dedicate time to **volunteering** and enjoy **running**. My goal is to use technology to help people learn and solve real-world problems, constantly pushing the boundaries of what's possible.
+
+---
+
+### 🏅 Certifications & Professional Development
+
+I am committed to continuous learning and maintaining up-to-date industry knowledge to ensure best practices.
+
+* CompTIA CySA+ (Ongoing)
+* Google Cybersecurity Professional Certificate (2025)
+* Microsoft Azure Certification (2024)
+* Bachelor’s Degree in Political Science, UCDC Bucharest
+Strong development of analytical thinking and written communication.
+
+
+---
+
+### 📚 What You'll Find Here
+
+This is my space for hands-on learning, experimentation, and sharing practical insights.
+
+* [**portfolio**](https://github.com/IulianBofu/portfolio) – A collection of labs, scripts, and detailed notes on **Cybersecurity**, **Cloud**, and **Automation**.
+* My personal tools, proofs-of-concept, and ongoing learning projects.
+
+---
+
+### 👋 Let's Connect
+
+Whether it's discussing the latest cloud security trends or sharing tips on marathon training, feel free to reach out!
