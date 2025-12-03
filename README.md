@@ -1,47 +1,52 @@
-## 🚀 Hello, I'm Iulian 👋
+# Hi, I'm Iulian 👋
 
-**Cloud Systems & Cybersecurity Administrator** from Bucharest, Romania. With over **5 years** dedicated to systems administration, telecommunications, and cybersecurity, I'm focused on combining robust technical solutions with proactive security measures.
-
----
-
-### 💡 My Expertise & Passion
-
-I see technology not just as a job, but as a powerful tool for positive impact. My approach is to blend professional rigor with a genuine enthusiasm for learning and problem-solving.
-
-* **Professional Focus:** Specializing in securing complex network environments and servers, leveraging the **Azure Cloud** platform, and building efficient workflows through **Security Automation (SecOps)**.
-* **Key Skills:** Experienced in threat analysis, executing rapid **Incident Response**, managing **IDS/IPS** solutions, and rigorous **hardening** of Windows/Linux infrastructures.
-* **Driven by Passion:** Beyond the command line, I dedicate time to **volunteering** and enjoy **running**. My goal is to use technology to help people learn and solve real-world problems, constantly pushing the boundaries of what's possible.
+Cloud Systems & Cybersecurity Administrator from Bucharest, Romania, with 5+ years of combined experience in systems administration, telecommunications engineering, and cybersecurity. I focus on securing networks and servers, building reliable cloud environments and automating repetitive security tasks.
 
 ---
 
-### 🏅 Certifications & Professional Development
+## 🔐 Cybersecurity, Cloud & Servers
 
-I am committed to continuous learning and maintaining up-to-date industry knowledge to ensure best practices.
-
-* CompTIA CySA+ (Ongoing)
-* Google Cybersecurity Professional Certificate (2025)
-* Microsoft Azure Certification (2024)
-* Bachelor’s Degree in Political Science, UCDC Bucharest
-Strong development of analytical thinking and written communication.
-
+- Google Cybersecurity Professional Certificate (2024) and Microsoft Azure certified (2024).
+- Experience with threat analysis, risk management, incident response, IDS/IPS and secure firewall/router configuration.
+- Hands-on with Windows and Linux servers: hardening, patching, access control, backup and disaster recovery (BCP/DRP).
+- Used to designing and operating highly available infrastructure (≈99.99% uptime) with robust monitoring and alerting.
 
 ---
 
-### 📚 What You'll Find Here
+## 🧪 Experience & Projects
 
-This is my space for hands-on learning, experimentation, and sharing practical insights.
+- **Cloud Systems & Cybersecurity Administrator (2024 – Present)**  
+  Managing core network and server infrastructure (routers, switches, firewalls, VMs) and Azure cloud resources, focusing on security, performance and business continuity.
 
-* [**portfolio**](https://github.com/IulianBofu/portfolio) – A collection of labs, scripts, and detailed notes on **Cybersecurity**, **Cloud**, and **Automation**.
-* My personal tools, proofs-of-concept, and ongoing learning projects.
+- **Telecom Engineer @ Ericsson (2019 – 2022)**  
+  Worked on large‑scale 4G/5G platforms, network performance optimization and rapid incident troubleshooting in production environments.
+
+On GitHub you’ll mainly find:
+
+- Security and monitoring scripts (Python, shell) for automation and anomaly detection.  
+- Experiments with Azure, VPNs, TCP/IP, DNS, system and server monitoring.
 
 ---
 
-### 👋 Let's Connect
+## 🛠️ Skills & Technologies
 
-Whether it's discussing the latest cloud security trends or sharing tips on marathon training, feel free to reach out!
+- **Cybersecurity:** Threat Analysis, Risk Management, Incident Response, IDS/IPS, secure network design  
+- **Cloud & Virtualization:** Microsoft Azure, VMware, Hyper‑V, cloud databases  
+- **Servers & Systems:** Windows / Linux administration, hardening, backups, logging, BCP/DRP  
+- **Networking:** TCP/IP, DNS, VPN, 4G/5G, performance monitoring  
+- **Programming & Scripting:** Python (automation), SQL, shell scripting
 
-**Name:** Iulian Bofu  
-**Location:** Bucharest, Romania  
-**Phone:** +40 750 492 555  
-**Email:** [iulian.bofu@outlook.com](mailto:iulian.bofu@outlook.com)  
-**LinkedIn:** [https://www.linkedin.com/in/iulianbofu](https://www.linkedin.com/in/iulianbofu)
+---
+
+## 🌍 Languages & Interests
+
+- **Languages:** French (native/bilingual), English (advanced), Spanish (intermediate)  
+- **Interests:** Volunteering, running and outdoor activities, helping people learn and solve real‑life problems through technology and collaboration.
+
+---
+
+## 📫 Contact
+
+- Location: Bucharest, Romania  
+- Email: iulian.bofu@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/iulianbofu
