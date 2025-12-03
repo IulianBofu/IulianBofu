@@ -39,3 +39,9 @@ This is my space for hands-on learning, experimentation, and sharing practical i
 ### 👋 Let's Connect
 
 Whether it's discussing the latest cloud security trends or sharing tips on marathon training, feel free to reach out!
+
+**Name:** Iulian Bofu  
+**Location:** Bucharest, Romania  
+**Phone:** +40 750 492 555  
+**Email:** [iulian.bofu@outlook.com](mailto:iulian.bofu@outlook.com)  
+**LinkedIn:** [https://www.linkedin.com/in/iulianbofu](https://www.linkedin.com/in/iulianbofu)
